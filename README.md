@@ -1,5 +1,5 @@
 # Raifhack-DS-2021
-Хакатон от Райфайзен по Data Science. Ссылка: https://apply.raifhack.ru/competition
+Хакатон [Raifhack DS](https://apply.raifhack.ru/competition) от Райфайзен по Data Science.
 
 ### ~160 место(TOP-40%).
 
